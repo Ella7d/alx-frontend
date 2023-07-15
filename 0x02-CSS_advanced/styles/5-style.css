@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+
+body {
+    color: #161616;
+    font-size: var(--font-size-medium);
+}
